@@ -1,0 +1,41 @@
+--------REPORT.TXT--------
+
+Autor do Código: Denis Gabriel Cicau - 25442
+Hardware: Arduino Nano rp2040 Connect
+Data de realização: 27-01-2024
+
+Cálculos Descritivos: 
+
+[+]-[+]-[+]-|Temperatura Sensor 1|-[+]-[+]-[+]
+
+[+] Média: 19.99 ºC
+[+] Temperatura Máxima: 22.98 ºC
+[+] Temperatura Mínima: 17.40 ºC
+[+] Mediana das Temperaturas: 19.85
+[+] Desvio padrão das Temperaturas: 1.641
+
+[+]-[+]-[+]-|Temperatura Sensor 2|-[+]-[+]-[+]
+
+[+] Média: 19.74 ºC
+[+] Temperatura Máxima: 22.77 ºC
+[+] Temperatura Mínima: 17.26 ºC
+[+] Mediana das Temperaturas: 19.55
+[+] Desvio padrão das Temperaturas: 1.604
+
+[+]-[+]-[+]-|Pressão Atmosférica|-[+]-[+]-[+]
+
+[+] Média: 1008.55 hPa
+[+] Temperatura Máxima: 1008.98 hPa
+[+] Temperatura Mínima: 1008.22 hPa
+[+] Mediana das Temperaturas: 1008.51
+[+] Desvio padrão das Temperaturas: 0.202
+
+[+]-[+]-[+]-|Humiadade|-[+]-[+]-[+]
+
+[+] Média: 65.65%
+[+] Temperatura Máxima: 79.39%
+[+] Temperatura Mínima: 53.22%
+[+] Mediana das Temperaturas: 68.55
+[+] Desvio padrão das Temperaturas: 6.930
+
+Também foram guardadas cópias das visualizações gráficas no mesmo diretório!

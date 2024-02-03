@@ -1,0 +1,36 @@
+--------REPORT.TXT--------
+
+Autor do Código: Denis Gabriel Cicau - 25442
+Hardware: Arduino Nano rp2040 Connect
+Data de realização: 27-01-2024
+
+Cálculos Descritivos: 
+
+[+] Média: 25.87 ºC
+[+] Temperatura Máxima: 26.59 ºC
+[+] Temperatura Mínima: 24.95 ºC
+[+] Mediana das Temperaturas: 25.96
+[+] Desvio padrão das Temperaturas: 0.38
+
+------------------------------------------------------------------------------
+
+Análise dos dados obtidos:
+
+[+] A média da temperatura, 25.87 ºC, representa o valor médio observado ao longo do experimento.
+    A consistência desse valor sugere que o sistema manteve uma temperatura estável durante o período de aquisição.
+    
+[+] As temperaturas máxima e mínima, 26.59 ºC e 24.95 ºC, respectivamente, indicam a amplitude térmica.
+    Como a variação dessa temperatura não foi muito discrepante, indica mais uma vez que não houve nenhum "distúrbio" durante o período de aquisição de dados.
+    
+[+] O desvio padrão, 0.38, reflete a dispersão dos dados ao redor da média.
+    Como houve uma dispersão baixa, sugere-se que houve estabilidade e consistência na temperatura.
+
+------------------------------------------------------------------------------
+
+Podemos observar que, com os dados obtidos através do Arduino Nano rp2040 Connect conseguimos realizar:
+
+[-] Representações gráficas que ajudam na compreensão do tratamento de dados
+[-] Cálculo das grandezas básicas da estatística descritiva
+[-] Análise dos dados obtidos
+
+IMPORTANTE: Também foram guardadas cópias das visualizações gráficas no mesmo diretório!
